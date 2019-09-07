@@ -1,0 +1,16 @@
+server:
+  port: 13001
+spring:
+  application:
+    name: cloud-ims
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/cloud-ims?useUnicode=true&characterEncoding=utf8&useSSL=true&serverTimezone=UTC
+    username: root
+    password: root
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    service-url:
+      defaultZone:
+        http://localhost:12001/eureka/
