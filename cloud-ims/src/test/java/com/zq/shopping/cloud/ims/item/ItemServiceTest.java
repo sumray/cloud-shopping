@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 @SpringBootTest
 public class ItemServiceTest {
 	@Autowired
-	private ItemService itemService;
+	private ItemApi itemService;
 	
 	@Test
 	public void queryAll() {

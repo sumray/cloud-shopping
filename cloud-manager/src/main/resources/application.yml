@@ -1,10 +1,10 @@
 server:
-  port: 13001
+  port: 13002
 spring:
   application:
-    name: cloud-ims
+    name: cloud-manager
   datasource:
-    url: jdbc:mysql://127.0.0.1:3306/cloud-ims?useUnicode=true&characterEncoding=utf8&useSSL=true&serverTimezone=UTC
+    url: jdbc:mysql://127.0.0.1:3306/cloud-manager?useUnicode=true&characterEncoding=utf8&useSSL=true&serverTimezone=UTC
     username: root
     password: root
 eureka:
