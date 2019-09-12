@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
+@RequestMapping("/oss-service")
 public class ItemController {
 	@Autowired
 	private ItemApi itemApi;
