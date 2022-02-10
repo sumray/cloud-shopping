@@ -180,7 +180,7 @@
         <hazelcast.version>3.9.2</hazelcast.version>
         <hikaricp.version>2.7.4</hikaricp.version>
         <hessian.version>4.0.51</hessian.version>
-        <hibernate.version>5.2.12.Final</hibernate.version>
+        <hibernate.version>5.4.24.Final</hibernate.version>
         <hibernate-jpa.version>1.0.0.Final</hibernate-jpa.version>
         <itext-asian.version>5.2.0</itext-asian.version>
         <javax-activation.version>1.1.1</javax-activation.version>
