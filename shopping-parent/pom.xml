@@ -176,7 +176,7 @@
         <commons-lang3.version>3.3.2</commons-lang3.version>
         <commons-net.version>3.3</commons-net.version>
         <fst.version>2.45</fst.version>
-        <fastjson.version>1.2.35</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <hazelcast.version>3.9.2</hazelcast.version>
         <hikaricp.version>2.7.4</hikaricp.version>
         <hessian.version>4.0.51</hessian.version>
