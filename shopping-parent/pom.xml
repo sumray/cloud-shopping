@@ -191,7 +191,7 @@
         <jetty.version>9.4.8.v20171121</jetty.version>
         <jgroups.version>4.0.1.Final</jgroups.version>
         <mybatis-plus.version>3.2.0</mybatis-plus.version>
-        <poi.version>4.0.0</poi.version>
+        <poi.version>4.1.1</poi.version>
         <xmemcached.version>2.0.0</xmemcached.version>
         <zookeeper.version>3.4.8</zookeeper.version>
         <zxing.version>3.2.1</zxing.version>
